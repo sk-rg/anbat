@@ -1,0 +1,10 @@
+{
+  "name": "Remix ANBAT",
+  "description": "Explore Petra with an AI companion, collect creatures, and help preserve Nabataean history through a live feedback loop.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,163 @@
+[
+  {
+    "id": "kb-siq",
+    "titleEn": "The Siq – Gorge Entrance & Terracotta Aqueducts",
+    "titleAr": "السيق – مدخل الشق الصخري وقنوات الفخار",
+    "category": "landmark",
+    "landmarkId": "siq",
+    "contentEn": "The Siq is a 1.2-kilometer natural geological fault winding between sheer cliffs up to 80 meters high. The Nabataeans paved it with hexagonal limestone blocks and carved channels into both canyon walls. The left channel carried filtered potable water through clay pipes, while the right channel diverted floodwaters into deep underground cisterns.",
+    "contentAr": "السيق هو صدع جيولوجي طبيعي بطول 1.2 كم يتعرج بين جبال صخرية يصل ارتفاعها إلى 80 متراً. قام الأنباط برصفه بالحجارة الكلسية ونحتوا قنوات على جانبي الوادي. القناة اليسرى كانت تنقل مياه الشرب العذبة عبر أنابيب فخارية، بينما صممت القناة اليمنى لتصريف مياه السيول نحو صهاريج ضخمة.",
+    "keywords": ["siq", "entrance", "gorge", "canyon", "channel", "aqueduct", "paved", "water", "السيق", "قناة", "مياه", "مدخل"]
+  },
+  {
+    "id": "kb-treasury",
+    "titleEn": "Al-Khazneh (The Treasury) – Royal Tomb of Aretas IV",
+    "titleAr": "الخزنة – ضريح الملك الحارث الرابع",
+    "category": "landmark",
+    "landmarkId": "treasury",
+    "contentEn": "Carved directly into the rose-red sandstone cliff in the early 1st century AD, Al-Khazneh stands 39.5 meters high. Modern archaeological excavations revealed lower tomb chambers beneath the facade, confirming it served as a royal mausoleum, likely for King Aretas IV Philopatris. The urn on the top upper pediment is solid rock and does not contain pharaoh's gold despite Bedouin legend.",
+    "contentAr": "نُحتت الخزنة مباشرة في صخر الوردي في مطلع القرن الأول الميلادي، ويبلغ ارتفاعها 39.5 متراً. أكدت الحفريات الأثرية الحديثة وجود مدافن ملكية سفلية تحت الواجهة، مما يثبت أنها ضريح ملكي للملك الحارث الرابع. الجرة المنحوتة في أعلى الواجهة مصمتة من الصخر ولا تحتوي ذهباً كما روجت الأساطير الشعبية.",
+    "keywords": ["treasury", "khazneh", "urn", "aretas", "tomb", "mausoleum", "facade", "الخزنة", "الحارث", "ضريح", "جرة", "ذهب"]
+  },
+  {
+    "id": "kb-street-facades",
+    "titleEn": "Street of Facades – Crowstep Tombs of the Merchant Elite",
+    "titleAr": "شارع الواجهات – قبور النخبة وتدرجات الغراب",
+    "category": "landmark",
+    "landmarkId": "facades",
+    "contentEn": "The Street of Facades features over 40 rock-cut tombs carved into the cliff face overlooking the outer Siq. These tombs showcase distinctive Assyrian-influenced crowstep (stepped battlements) friezes and Egyptian cavetto cornices. They were family tombs belonging to prominent Nabataean frankincense and myrrh trading dynasties.",
+    "contentAr": "يضم شارع الواجهات أكثر من 40 ضريحاً منحوتاً في سفح الجبل المطل على السيق الخارجي. تتميز هذه القبور بتدرجات الغراب الآشورية والأفاريز المصرية. كانت قبوراً عائلية تعود لتجار قوافل البخور واللبان والمر من علية القوم النبطيين.",
+    "keywords": ["facades", "street", "crowstep", "tombs", "merchants", "trade", "frankincense", "شارع الواجهات", "مدافن", "بخور", "تجارة"]
+  },
+  {
+    "id": "kb-theatre",
+    "titleEn": "The Rock-Cut Theatre – Civic Monument of Petra",
+    "titleAr": "المدرج الصخري – صرح بترا المدني",
+    "category": "landmark",
+    "landmarkId": "theatre",
+    "contentEn": "Petra's Roman-style theatre is unique in the world because its cavea (auditorium) was carved entirely out of solid mountain rock in the 1st century AD, slicing right through pre-existing tomb chambers. It could seat between 6,000 and 8,500 citizens for civil assemblies, dramatic performances, and sacred ceremonies. It was enlarged after the Roman annexation in 106 AD.",
+    "contentAr": "مدرج بترا فريد من نوعه عالمياً لأن مدرجاته حُفرت بالكامل في الصخر الجبلي الأصم في القرن الأول الميلادي قاطعةً مدافن أقدم كانت في الموقع. كان يتسع لما بين 6000 إلى 8500 متفرج للاجتماعات المدنية والعروض الدينية، وتمت توسعته بعد الضم الروماني عام 106 م.",
+    "keywords": ["theatre", "theater", "cavea", "seating", "assembly", "roman", "المدرج", "المسرح", "مقاعد", "اجتماعات"]
+  },
+  {
+    "id": "kb-monastery",
+    "titleEn": "Ad-Deir (The Monastery) – Monumental Monument of the Heights",
+    "titleAr": "الدير – صرح الأعالي الجبلي الشامخ",
+    "category": "landmark",
+    "landmarkId": "monastery",
+    "contentEn": "Ad-Deir is Petra's largest carved facade, measuring 47 meters wide by 48 meters high. Accessible via an ancient stair trail of over 800 rock-cut steps, it was built in the mid-1st century AD as a shrine dedicated to the deified Nabataean King Obodas I. The interior chamber contains a sacred altar bench. In Byzantine times, Christian crosses were incised into the back wall, giving it the name 'The Monastery'.",
+    "contentAr": "الدير هو أضخم واجهة منحوتة في بترا، بعرض 47 متراً وارتفاع 48 متراً. يمكن الوصول إليه عبر درب يضم أكثر من 800 درجة صخرية. شُيد في منتصف القرن الأول الميلادي كنصب تكريمي للملك عبادة الأول المؤله، وتوجد بمقصورته الداخلية منصة مذبح مقدسة. نُقشت فيه صلبان في العصر البيزنطي فأطلق عليه اسم الدير.",
+    "keywords": ["monastery", "deir", "ad-deir", "obodas", "steps", "altar", "christian", "crosses", "الدير", "عبادة", "درج", "مذبح"]
+  },
+  {
+    "id": "kb-water-engineering",
+    "titleEn": "Nabataean Hydraulic Engineering – Dams, Channels, and Cisterns",
+    "titleAr": "الهندسة المائية النبطية – السدود والقنوات والخزانات",
+    "category": "engineering",
+    "contentEn": "Petra receives less than 150 mm of rainfall per year, yet sustained 30,000 residents through ingenious hydraulic mastery. The Nabataeans constructed diversion dams at the mouth of Wadi Musa, gravity-fed covered channels with settling basins to remove silt, pressurized ceramic pipelines, and over 200 waterproof plaster-lined underground cisterns storing over 40 million liters.",
+    "contentAr": "تسقط على بترا أقل من 150 ملم من الأمطار سنوياً، ومع ذلك دعمت 30 ألف نسمة بفضل عبقرية الهندسة المائية. بنى الأنباط سدود تحويلية عند مدخل وادي موسى، وقنوات مغطاة تعمل بالجاذبية مع أحواض ترسيب للرمال، وأنابيب فخارية مضغوطة، وأكثر من 200 صهريج أرضي معزول بالكلس المقاوم لتخزين 40 مليون لتر.",
+    "keywords": ["water", "dam", "cistern", "aqueduct", "rain", "flash flood", "hydraulic", "مياه", "سدود", "صهاريج", "هندسة", "سيول"]
+  },
+  {
+    "id": "kb-trade-routes",
+    "titleEn": "Incense Route & Merchant Caravans",
+    "titleAr": "طريق البخور وقوافل التجارة النبطية",
+    "category": "beliefs",
+    "contentEn": "The Nabataeans dominated the lucrative trade crossroads linking southern Arabia, India, and the Mediterranean. Long camel caravans transported southern Arabian frankincense, myrrh, Indian spices, and silk. Nabataeans taxed caravans safely passing through their desert territory and provided guarded water wells, turning Petra into a wealthy cosmopolitan emporium.",
+    "contentAr": "سيطر الأنباط على ملتقى طرق التجارة الحيوية الرابطة بين جنوب الجزيرة العربية والهند والبحر الأبيض المتوسط. نقلت قوافل الجمال البخور واللبان والمر والتوابل والحرير. فرض الأنباط رسوماً عادلة مع توفير الحماية ومصادر المياه في الصحراء، مما جعل بترا مركزاً تجارياً ثرياً.",
+    "keywords": ["incense", "caravan", "trade", "frankincense", "myrrh", "camel", "merchants", "بخور", "تجارة", "قوافل", "جمال", "لبان"]
+  },
+  {
+    "id": "kb-dushara-al-uzza",
+    "titleEn": "Nabataean Deities – Dushara & Al-Uzza",
+    "titleAr": "الديانة النبطية – ذو الشرى والعزى",
+    "category": "beliefs",
+    "contentEn": "The primary Nabataean deity was Dushara ('Lord of the Shara Mountains'), associated with the sun, masculine strength, and royal authority, often symbolized by aniconic stone betyl blocks (god blocks). Al-Uzza ('The Mightiest') was the supreme goddess of water, fertility, and stars, often symbolized by carved eye idols discovered at the Temple of the Winged Lions.",
+    "contentAr": "كان المعبود الرئيسي للأنباط هو 'ذو الشرى' (سيد جبال الشراة)، رمز الشمس والقوة والسلطة الملكية، ومُثل بأحجار الأنصاب (البيتل). وكانت 'العزى' الإلهة العظمى الراعية للمياه والخصوبة والنجوم، ومثلتها عيون منحوتة كشفت في معبد الأسود المجنحة.",
+    "keywords": ["dushara", "al-uzza", "god", "goddess", "betyl", "religion", "beliefs", "ذو الشرى", "العزى", "أنصاب", "ديانة", "آلهة"]
+  },
+  {
+    "id": "kb-betyls-aniconism",
+    "titleEn": "Sacred Betyls & Aniconic Stele Art",
+    "titleAr": "الأنصاب الصخرية والرمزية التجريدية",
+    "category": "beliefs",
+    "contentEn": "Unlike Greeks and Romans who sculpted human statues of gods, Nabataeans preferred aniconism: representing the divine through squared, uncarved stone pillars called betyls (from Semitic 'Beit-El', House of God). Niches carved along mountain paths like the Siq sheltered these sacred stele, allowing travelers to offer prayers and libations.",
+    "contentAr": "بخلاف الإغريق والرومان الذين نحتوا تماثيل بشرية لآلهتهم، فضل الأنباط التجريد عبر أنصاب حجرية مستطيلة تُدعى البيتل (بيت إيل أي بيت الله). نُحتت محاريب لهذه الأنصاب على طول دروب بترا والسيق ليؤدي المسافرون الصلوات ويسكبوا القرابين.",
+    "keywords": ["betyl", "stele", "aniconic", "stone", "god block", "niche", "أنصاب", "بيتل", "محراب", "صخر"]
+  },
+  {
+    "id": "kb-myth-treasury-gold",
+    "titleEn": "Myth of the Pharaoh's Gold in the Treasury Urn",
+    "titleAr": "أسطورة ذهب فرعون في جرة الخزنة",
+    "category": "myth",
+    "landmarkId": "treasury",
+    "contentEn": "Local Bedouin legend held that an Egyptian Pharaoh concealed his vast treasure inside the stone urn crowning the top pediment of Al-Khazneh while pursuing Moses. Rifle bullet scars visible on the urn today were fired by treasure hunters trying to shatter it, unaware that the urn is 100% solid carved sandstone.",
+    "contentAr": "تقول الأسطورة الشعبية القديمة إن فرعون مصر خبأ كنزه العظيم داخل الجرة المنحوتة أعلى واجهة الخزنة أثناء مطاردته لموسى. آثار الرصاصات المرئية اليوم على الجرة أطلقها باحثون عن الكنز في القرون الماضية ظناً منهم بكسرها، غير مدركين أنها حجر رملي صلب بالكامل.",
+    "keywords": ["myth", "gold", "pharaoh", "urn", "legend", "bullet", "treasure", "أسطورة", "فرعون", "كنز", "ذهب", "جرة"]
+  },
+  {
+    "id": "kb-myth-djinns",
+    "titleEn": "Myth of the Djinn Blocks",
+    "titleAr": "أسطورة مكعبات الجن في باب السيق",
+    "category": "myth",
+    "landmarkId": "siq",
+    "contentEn": "Near the entrance of Bab Al-Siq stand three towering monumental squared rock blocks. Later folklore dubbed them 'Djinn Blocks', claiming desert spirits inhabited them. In reality, Nabataean archaeological inscriptions prove they were elite grave monuments ('nephesh' or soul-houses) built in the 1st century AD to honor deceased family heads.",
+    "contentAr": "بالقرب من باب السيق تقف ثلاث كتل صخرية مربعة عملاقة. أطلقت عليها الأساطير الشعبية لاحقاً اسم 'مكعبات الجن' زاعمة سكنى الأرواح فيها. لكن النقوش النبطية أثبتت أنها أنصاب مدافن تذكارية للمتوفين (النفس) تعود للقرن الأول الميلادي.",
+    "keywords": ["djinn", "blocks", "bab al-siq", "spirits", "nephesh", "tomb", "جن", "مكعبات الجن", "أرواح", "نفس"]
+  },
+  {
+    "id": "kb-geology-sandstone",
+    "titleEn": "The Geological Rainbow – Disi and Umm Ishrin Sandstone",
+    "titleAr": "ألوان بترا الجيولوجية – الحجر الرملي الديسي وأم عشرين",
+    "category": "landmark",
+    "contentEn": "Petra's iconic color spectrum (streaks of rose, burgundy, saffron, and cream) arises from the Cambrian Umm Ishrin and Ordovician Disi sandstone formations deposited 500 million years ago. Mineral oxidation, primarily hematite (iron oxide) for reds and limonite for yellows, creates swirling swirls in the tomb ceilings.",
+    "contentAr": "تتكون ألوان بترا الشهيرة (تموجات الوردي والعنابي والزعفراني والبيج) من صخور الحجر الرملي من تشكيلتي أم عشرين والديسي المترسبة قبل 500 مليون سنة. أكسدة المعادن، خاصة أكسيد الحديد (الهيماتيت) للأحمر والليمونيت للأصفر، تشكل تلك التموجات الساحرة في أسقف المدافن.",
+    "keywords": ["geology", "sandstone", "rose-red", "iron oxide", "colors", "umm ishrin", "disi", "جيولوجيا", "حجر رملي", "ألوان", "المدينة الوردية"]
+  },
+  {
+    "id": "kb-monument-preservation",
+    "titleEn": "Monument Conservation & Flash Flood Risks in Petra",
+    "titleAr": "حماية الآثار ومخاطر السيول في بترا",
+    "category": "condition",
+    "contentEn": "Modern Petra conservation requires monitoring seasonal flash flood dynamics, sandstone salt weathering, tourist footfall abrasion, and structural seismic micro-fissures. When ancient Nabataean diversion dams are kept clear and maintained, rainwater harmlessly bypasses the Siq, shielding delicate facade reliefs from catastrophic water erosion.",
+    "contentAr": "تتطلب حماية آثار بترا مراقبة حركة السيول الشتوية، وتآكل الحجر الرملي بالأملاح، واحتكاك أقدام الزوار، والشقوق الزلزالية الدقيقة. عندما تتم صيانة السدود النبطية التاريخية وتنظيفها، تمر مياه السيول بأمان دون إغراق السيق، مما يحمي الواجهات من التآكل المائي.",
+    "keywords": ["conservation", "erosion", "flash flood", "dam", "weathering", "preservation", "حماية", "صيانة", "تآكل", "سيول"]
+  },
+  {
+    "id": "kb-visiting-hours",
+    "titleEn": "Petra Site Opening Hours & Operation Times",
+    "titleAr": "ساعات فتح موقع البترا الأثري وأوقات الزيارة",
+    "category": "condition",
+    "contentEn": "The Petra Archaeological Park opens daily at 6:00 AM year-round. In summer, the Visitor Center and ticketing operate until 6:00 PM, and the site closes at 7:00 PM. In winter, ticketing operates until 4:00 PM and the park closes at 5:00 PM. Arriving early around 6:00-7:00 AM avoids crowds and desert midday heat.",
+    "contentAr": "يفتح موقع البترا الأثري أبوابه يومياً الساعة 6:00 صباحاً على مدار العام. في فصل الصيف، يغلق شباك التذاكر الساعة 6:00 مساءً ويغلق الموقع في تمام 7:00 مساءً. أما في الشتاء، فيغلق شباك التذاكر الساعة 4:00 عصراً ويغلق الموقع الساعة 5:00 مساءً. يُنصح بالدخول مبكراً بين 6:00 و7:00 صباحاً لتجنب حرارة الظهيرة والازدحام.",
+    "keywords": ["hours", "opening", "closing", "time", "visit", "summer", "winter", "ساعات", "أوقات", "دوام", "افتتاح", "إغلاق", "صباح", "مساء"]
+  },
+  {
+    "id": "kb-ticket-fees",
+    "titleEn": "Petra Entry Ticket Fees & Jordan Pass",
+    "titleAr": "أسعار تذاكر دخول البترا وتصريح Jordan Pass",
+    "category": "condition",
+    "contentEn": "For international visitors staying at least one night in Jordan, Petra entry tickets cost 50 JOD for 1 day, 55 JOD for 2 days, and 60 JOD for 3 days. For day-trippers not staying overnight in Jordan, the ticket is 90 JOD. For Jordanian and Arab nationals, the ticket is 1 JOD. The Jordan Pass includes the 1-to-3-day Petra fee and waives entry visa fees.",
+    "contentAr": "تبلغ رسوم دخول البترا للسياح الأجانب المقيمين ليلة على الأقل في الأردن 50 ديناراً أردنياً ليوم واحد، و55 ديناراً ليومين، و60 ديناراً لـ 3 أيام. أما للزائر اليومي (دون مبيت في الأردن) فتبلغ 90 ديناراً. وللمواطنين الأردنيين وأبناء الدول العربية تبلغ التذكرة ديناراً واحداً فقط. يشمل تصريح Jordan Pass رسوم دخول البترا ويعفي من رسوم تأشيرة الدخول.",
+    "keywords": ["ticket", "fees", "price", "cost", "jod", "jordan pass", "entry", "تذاكر", "رسوم", "سعر", "تكلفة", "دينار", "جوردان باس", "دخولية"]
+  },
+  {
+    "id": "kb-petra-by-night",
+    "titleEn": "Petra by Night – Candlelit Canyon Experience",
+    "titleAr": "فعالية البترا ليلاً – سحر الشموع في ساحة الخزنة",
+    "category": "landmark",
+    "landmarkId": "treasury",
+    "contentEn": "Petra by Night runs on Monday, Wednesday, and Thursday evenings from 8:30 PM to 10:30 PM. Over 1,500 candles illuminate the Siq walkway leading to the Treasury plaza, accompanied by traditional Bedouin flute music, sweet mint tea, and ancient storytelling under the starry desert sky. Tickets cost 17 JOD.",
+    "contentAr": "تقام فعالية 'البترا ليلاً' (Petra by Night) كل إثنين وأربعاء وخميس من الساعة 8:30 وحتى 10:30 مساءً. تُضاء دروب السيق وساحة الخزنة بأكثر من 1500 شمعة متوهجة، مع عزف الربابة والناي البدوي وتقديم الشاي بالميرمية وسرد الحكايات النبطية تحت سماء الصحراء المرصعة بالنجوم. سعر التذكرة 17 ديناراً.",
+    "keywords": ["petra by night", "candles", "night", "treasury", "music", "البترا ليلا", "شموع", "ليل", "مساء", "ربابة", "حفلة"]
+  },
+  {
+    "id": "kb-weather-seasons",
+    "titleEn": "Petra Climate, Weather, and Best Seasons to Visit",
+    "titleAr": "مناخ وطقس البترا وأفضل مواسم الزيارة",
+    "category": "condition",
+    "contentEn": "The best seasons to explore Petra are Spring (March to May) and Autumn (September to November) with mild temperatures between 18°C and 26°C. Summers (June to August) are dry and hot with temperatures exceeding 36°C at midday. Winters (December to February) can be cold with nighttime temperatures near 0°C and occasional flash floods requiring warm layers and sturdy hiking boots.",
+    "contentAr": "أفضل أوقات زيارة البترا هي فصلا الربيع (من مارس إلى مايو) والخريف (من سبتمبر إلى نوفمبر) حيث الأجواء معتدلة بين 18 إلى 26 درجة مئوية. الصيف حار وجاف وتتجاوز درجات الحرارة 36 مئوية ظهراً، بينما الشتاء بارد مع ليالٍ تقارب الصفر المئوي وفرص سيول شتوية، مما يستوجب ارتداء ملابس دافئة وأحذية مشي متينة.",
+    "keywords": ["weather", "climate", "temperature", "best time", "spring", "winter", "summer", "طقس", "مناخ", "حرارة", "أفضل وقت", "ربيع", "شتاء", "صيف", "مطر"]
+  }
+]
